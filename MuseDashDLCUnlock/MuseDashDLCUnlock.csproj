@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Muse Dash\MelonLoader\net6\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppcom.rlabrecque.steamworks.net">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Muse Dash\MelonLoader\Il2CppAssemblies\Il2Cppcom.rlabrecque.steamworks.net.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppInterop.Runtime">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Muse Dash\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Muse Dash\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="MelonLoader">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Muse Dash\MelonLoader\net6\MelonLoader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
