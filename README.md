@@ -5,7 +5,7 @@ Wanted to buy Just as Planned but missed the deadline? Don't want to buy DLC at 
 ## Instructions
 
 1. Install [MelonLoader](https://melonwiki.xyz/#/) to the Muse Dash folder
-2. Copy MuseDashDLCUnlock.dll to the `Mods` folder
+2. Copy `MuseDashDLCUnlock.dll` to the `Mods` folder
 3. Profit
 
 ## Build Instructions
